@@ -56,7 +56,8 @@ It utilizes IBM’s advanced AI models and cloud infrastructure to streamline th
 
 ## 📎 GitHub Link
 
-👉 [Project Repository](https://github.com/AswiniKumar55/Nutrion_agent)
+👉 [Project Repository]
+  https://github.com/Manish3Shukla/project_ai
 
 ---
 
